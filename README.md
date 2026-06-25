@@ -9,3 +9,5 @@ This project contains a Bash script (`simple-interest.sh`) that calculates simpl
 - **Time Period** – duration in years
 
 Using these inputs, the script computes the simple interest using the formula:
+
+Fixed a typo in this line.
